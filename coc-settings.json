@@ -17,5 +17,4 @@
     "UltiSnips",
     "~/.config/nvim/utils/snips"
   ]
-  // rust config comes here
 }
